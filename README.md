@@ -1,1 +1,1 @@
-﻿# My GitHub Speedrun Project - UPDATED ON GITHUB
+# My GitHub Speedrun Project - FINAL RESOLVED VERSION
